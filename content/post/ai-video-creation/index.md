@@ -16,3 +16,5 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ## AI video Creation Tools
 
 These tools are getting out of hand
+
+{{< video "animated-clock-vid.mp4" >}}
