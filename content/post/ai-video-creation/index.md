@@ -3,7 +3,7 @@ title: The world is going nuts with AI videos!
 description: Welcome to the new world order
 slug: ai-video-creation
 date: 2025-07-01 00:00:00+0000
-image: cover.jpg
+image: animated-clock.jpg
 categories:
     - Thoughts & Wanderings
 tags:
