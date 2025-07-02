@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on Kyle Oliphant</title><link>https://clomok.github.io/tags/hugo/</link><description>Recent content in Hugo on Kyle Oliphant</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://clomok.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World it's Hugo!</title><link>https://clomok.github.io/p/hello-world/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>https://clomok.github.io/p/hello-world/</guid><description>&lt;img src="https://clomok.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World it's Hugo!" />&lt;h2 id="hugo-static-site-generation">Hugo Static Site Generation
+&lt;/h2>&lt;p>Static site generators are a really great way to share public data. There are many advantages to this style of website.&lt;/p>
+&lt;h3 id="advantages">Advantages
+&lt;/h3>&lt;ul>
+&lt;li>Fast loading and clean repeatable designs&lt;/li>
+&lt;li>Content entry is done using Markdown, so there is nothing to break&lt;/li>
+&lt;li>Site automatically updates when content is modified on the coresponding github repo&lt;/li>
+&lt;li>Run for free with Github Pages&lt;/li>
+&lt;/ul>
+&lt;h3 id="dis-advantages">Dis-Advantages
+&lt;/h3>&lt;ul>
+&lt;li>No dynamic content, like user accounts or logins. Displays content only&lt;/li>
+&lt;li>Designed for mainly text content, dynamic content is not easily buildable&lt;/li>
+&lt;li>Themes are typically not too flashy, but this could change in the future&lt;/li>
+&lt;li>Content is designed to be 100% public&lt;/li>
+&lt;/ul>
+&lt;h2 id="credits">Credits
+&lt;/h2>&lt;p>Want a site like this? Check out &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+>hugo-theme-stack-stater&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+>Pawel Czerwinski&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>&lt;/blockquote></description></item></channel></rss>
