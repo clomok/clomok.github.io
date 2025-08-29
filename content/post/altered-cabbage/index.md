@@ -40,9 +40,6 @@ Genetically altered cabbages are a fascinating and delicious way to share public
 {{< image "cabbage2.png" >}}
 
 
-{{< video "animated-dragon-vid.mp4" >}}
-
-
 ## Credits
 
 Want a site like this? Check out [TheKyleStyle Designs](https://thekylestyle.com)
