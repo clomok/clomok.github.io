@@ -1,15 +1,16 @@
 ---
 title: The world is going nuts with AI videos!
 description: Welcome to the new world order
-slug: ai-video-creation
+slug: ai-clock
 date: 2025-07-01 00:00:00+0000
 image: animated-clock.jpg
 categories:
-    - Thoughts & Wanderings
+    - Art Generation
 tags:
-    - AI
-    - Video Generation
-    - Image Generation
+    - Clock
+    - Steampunk
+    - AI Video
+    - AI Image
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

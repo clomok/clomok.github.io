@@ -5,11 +5,11 @@ slug: ai-dragon
 date: 2025-07-01 00:00:00+0000
 image: animated-dragon.jpg
 categories:
-    - Thoughts & Wanderings
+    - Art Generation
 tags:
-    - AI
-    - Video Generation
-    - Image Generation
+    - Dragon
+    - AI Video
+    - AI Image
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
