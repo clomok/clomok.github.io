@@ -12,7 +12,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-## Genetically Altered Cabbages are on the rise!
+## Genetically Altered Cabbages are on the rise
 
 Genetically altered cabbages are a fascinating and delicious way to share public data. 🥬 There are many advantages to this type of vegetable.
 
@@ -36,6 +36,7 @@ Genetically altered cabbages are a fascinating and delicious way to share public
 
 
 ## Credits
+
 Want a site like this? Check out [TheKyleStyle Designs](https://thekylestyle.com)
 
 > Photo by [Kyle](https://links.thekylestyle.com)
