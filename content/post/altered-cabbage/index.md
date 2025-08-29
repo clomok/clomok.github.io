@@ -34,6 +34,14 @@ Genetically altered cabbages are a fascinating and delicious way to share public
 * The themes (colors) are typically not too flashy, but new varieties could be cultivated in the future.
 * Cabbages are designed to be **100% public** and are not meant for private consumption.
 
+![cabbage2](cabbage2.png)
+
+
+{{< image "cabbage2.png" >}}
+
+
+{{< video "animated-dragon-vid.mp4" >}}
+
 
 ## Credits
 
