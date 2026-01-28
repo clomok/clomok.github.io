@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Static Website on Kyle Oliphant</title><link>https://clomok.github.io/tags/static-website/</link><description>Recent content in Static Website on Kyle Oliphant</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://clomok.github.io/tags/static-website/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World it's Hugo!</title><link>https://clomok.github.io/p/hello-world/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>https://clomok.github.io/p/hello-world/</guid><description>&lt;img src="https://clomok.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World it's Hugo!" /&gt;&lt;h2 id="hugo-static-site-generation"&gt;Hugo Static Site Generation
+&lt;/h2&gt;&lt;p&gt;Static site generators are a really great way to share public data. There are many advantages to this style of website.&lt;/p&gt;
+&lt;h3 id="advantages"&gt;Advantages
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Fast loading and clean repeatable designs&lt;/li&gt;
+&lt;li&gt;Content entry is done using Markdown, so there is nothing to break&lt;/li&gt;
+&lt;li&gt;Site automatically updates when content is modified on the coresponding github repo&lt;/li&gt;
+&lt;li&gt;Run for free with Github Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="dis-advantages"&gt;Dis-Advantages
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;No dynamic content, like user accounts or logins. Displays content only&lt;/li&gt;
+&lt;li&gt;Designed for mainly text content, dynamic content is not easily buildable&lt;/li&gt;
+&lt;li&gt;Themes are typically not too flashy, but this could change in the future&lt;/li&gt;
+&lt;li&gt;Content is designed to be 100% public&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="credits"&gt;Credits
+&lt;/h2&gt;&lt;p&gt;Want a site like this? Check out &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+&gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+&gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>
