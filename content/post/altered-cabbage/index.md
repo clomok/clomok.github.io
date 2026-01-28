@@ -37,7 +37,6 @@ Genetically altered cabbages are a fascinating and delicious way to share public
 ![cabbage2](cabbage2.png)
 
 
-{{< image "cabbage2.png" >}}
 
 
 ## Credits
